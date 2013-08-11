@@ -1,12 +1,11 @@
 
-
 ############### 接続情報 ###############
 
 # ホスト（IP・ホスト名）
-host: xxx.xxx.xxx.xxx
+host: www46.atpages.jp
 
 # 使用プロトコル(ssh,ftp)
-proto: ssh
+proto: ftp
 
 
 ########################################
@@ -39,10 +38,10 @@ sudo_pass: sudo_password
 ######## FTP設定(proto="ftp"時) ########
 
 # FTPユーザ
-ftp_user: ftp_user
+ftp_user: monokurotoro
 
 # FTPパスワード
-ftp_pass: ftp_password
+ftp_pass: LYFdqPdqdE61TM
 
 
 ########################################
